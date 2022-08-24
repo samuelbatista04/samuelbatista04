@@ -1,26 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou Samuel Batista</h1>
 <h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
 
-
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=samuelbatista04" target="_blank">Follow on LinkedIn</a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelbatista04&label=Profile%20views&color=0e75b6&style=flat" alt="samuelbatista04" /> </p>
 
 - 🔭 Estou trabalhando atualmente [Wordpress - Websam Agência Digital](https://websam.com.br/)
