@@ -7,8 +7,6 @@
 
 - 🌱 Atualmente estou aprendendo **Python, Javascript, HTML, CSS, Wordpress**
 
-- 👯 Também estou trabalhando [Wordpress - Solarin Energia Solar](https://solarinenergia.com.br/)
-
 - 💬 Pergunte-me sobre **HTML, CSS, Wordpress, Gestão de tráfego, Hospedagem de Sites, SEO**
 
 - 📫 Como chegar até mim **cp.websam@gmail.com**
