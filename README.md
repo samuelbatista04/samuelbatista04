@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelbatista04&label=Profile%20views&color=0e75b6&style=flat" alt="samuelbatista04" /> </p>
 
-- 🔭 Estou trabalhando atualmente [Wordpress - Websam Agência Digital](https://websam.com.br/)
+- 🔭 Não Estou trabalhando atualmente
 
 - 🌱 Atualmente estou aprendendo **Python, Javascript, HTML, CSS, Wordpress**
 
